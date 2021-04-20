@@ -1,3 +1,3 @@
 # portfolio
 
-Hosted on: https://github.com/rmeena840/portfolio
+Hosted on: https://rmeena840.github.io/portfolio/
