@@ -1,10 +1,10 @@
 ---
 title: 'Hello, my name is'
 name: 'Ravindra Meena'
-subtitle: 'Full Stack Web and Mobile Application Developer!'
+subtitle: 'I love exploring new things!'
 buttonText: 'Get In Touch'
 ---
 
-I am a freelancer. I have expertise in Full Stack Web Development and React-Native mobile application development (Android and iOS both). I have delivered several freelancing project (Project mentioned below). I am open for contract basis or part time job.
+I'm a Senior Analyst (Software Engineer) at [Capgemini](https://capgemini.com/), India. Primarily interested in Web Development and React-Native mobile application development.
 
 I enjoy writing tech blogs and also helping every tech beginner I come across!

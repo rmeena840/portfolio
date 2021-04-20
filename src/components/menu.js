@@ -107,7 +107,7 @@ const Menu = ({ menuOpen, toggleMenu }) => {
                 </NavListItem>
               ))}
           </NavList>
-          <ResumeLink href="/freelancing/Ravindra_Kumar_Meena_Resume.pdf" target="_blank" rel="nofollow noopener noreferrer">
+          <ResumeLink href="/portfolio/Ravindra_Kumar_Meena_Resume.pdf" target="_blank" rel="nofollow noopener noreferrer">
             Resume
           </ResumeLink>
         </NavLinks>
