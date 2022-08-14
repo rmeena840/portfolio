@@ -16,14 +16,17 @@ skills:
 - C
 - C++
 - AWS EC2, S3, Lambda
+- GO
 ---
 
 Hello! I'm Ravindra Meena, from Mumbai, also known as Finance capital of India.
 
-A Senior Analyst (Software Engineer) Digital Delivery team at [Capgemini](http://capgemini.com/), India.
+A Consultant (Developer) at [ThoughtWorks](https://www.thoughtworks.com/en-in), India.
 
 I have completed my Bachelors from [IIT Dhanbad](https://www.iitism.ac.in/) in Computer Science and Engineering (2015-2019).
 
 I am also a GSoCer 2019 [GSoC RTEMS Project](https://summerofcode.withgoogle.com/archive/2019/projects/6270870320840704/) by Google.
+
+I am also a active open source contributor.
 
 Skills:

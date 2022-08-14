@@ -2,7 +2,7 @@
 date: '2019-09-13'
 title: 'Senior Analyst (Software Engineer)'
 company: 'Capgemini'
-range: 'Aug 2019 - Present'
+range: 'Aug 2019 - May 2022'
 url: 'https://www.capgemini.com'
 ---
 
