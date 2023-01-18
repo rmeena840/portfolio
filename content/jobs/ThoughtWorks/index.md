@@ -6,5 +6,5 @@ range: 'May 2022 - Present'
 url: 'https://www.thoughtworks.com/en-in'
 ---
 
-- Working as Full-Stack developer on the project, majorly worked on backend.
-- Used cursor approach with GraphQL and PostgreSQL to boost the performance of pagination.
+- Refer & Earn: Developed refer & earn feature in ReactJS with backend in NodeJS support. It increased the user base of the application.
+- Live news feed: Developed live news feed feature in ReactJS and backend support in NodeJS which displays the current available offers and discount.
